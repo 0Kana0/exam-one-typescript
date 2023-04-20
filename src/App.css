@@ -1,0 +1,5 @@
+#grad1{
+	background: linear-gradient(to top right, #6eda78 , #ffa200);
+	background-position: top right;
+	background-attachment: fixed;
+}
